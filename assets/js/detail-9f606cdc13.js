@@ -1,0 +1,1 @@
+webpackJsonp([0],[function(t,n,c){(function(t){"use strict";var n=c(2);document.write("detail "+n),t(function(){console.log(t("h1").text()+"--------------")})}).call(n,c(1))}]);
